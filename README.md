@@ -1,5 +1,19 @@
+# Hi there 👋, I'm Yash Garg
+
 # 💫 About Me:
-I'm Currently working on Vault File Share,<br>I'm looking to collaborate on my Future Projects,<br>I'm looking for help with Backend Design ,<br>I'm Currently learning DSA & Web Tech,<br>To reach me : ygarg7298@gmail.com
+
+- 🔭 **I’m currently working on:** Vault File Share
+- 🌱 **I’m currently learning:** Advanced DSA, System Design, and Cloud Architecture
+- 👯 **I’m looking to collaborate on:** Innovative Backend & Full-Stack Projects
+
+<br clear="both">
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashgarg004&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 
 ## 🌐 Socials:
@@ -12,13 +26,33 @@ I'm Currently working on Vault File Share,<br>I'm looking to collaborate on my F
 ![](https://streak-stats.demolab.com/?user=yashgarg004&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashgarg004&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+### 🌟 3D Contribution Graph & Activity
+<p align="center">
+  <!-- Note: The 3D graph requires the GitHub Action mentioned below! -->
+  <img src="https://raw.githubusercontent.com/yashgarg004/yashgarg004/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgarg004&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20Last%2030%20Days" width="95%" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Snake Eating My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashgarg004/yashgarg004/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashgarg004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=yashgarg004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
