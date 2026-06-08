@@ -27,17 +27,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashgarg004&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 🌟 3D Contribution Graph & Activity
-<p align="center">
-  <!-- Note: The 3D graph requires the GitHub Action mentioned below! -->
-  <img src="https://raw.githubusercontent.com/yashgarg004/yashgarg004/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgarg004&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20in%20Last%2030%20Days" width="95%" alt="Activity Graph" />
-</p>
-
----
 
 ### 🐍 Snake Eating My Contributions
 <p align="center">
