@@ -39,9 +39,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
----
-[![](https://komarev.com/ghpvc/?username=yashgarg004&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+[![](https://komarev.com/ghpvc/?username=yashgarg004&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yashgarg004)
 
