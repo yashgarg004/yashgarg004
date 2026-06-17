@@ -10,10 +10,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashgarg004&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+
+[![](https://komarev.com/ghpvc/?username=yashgarg004&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yashgarg004)
+
+
 
 
 ## 🌐 Socials:
@@ -32,12 +32,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashgarg004/yashgarg004/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
----
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-[![](https://komarev.com/ghpvc/?username=yashgarg004&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/yashgarg004)
 
