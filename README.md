@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 - 🔭 **I’m currently working on:** Music Player
-- 🌱 **I’m currently learning:** Advanced DSA, System Design, and Cloud Architecture
+- 🌱 **I’m currently learning:** Advanced DSA, System Design, Web Technologies
 - 👯 **I’m looking to collaborate on:** Innovative Backend & Full-Stack Projects
 
 <br clear="both">
